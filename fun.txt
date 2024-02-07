@@ -1,23 +1,35 @@
 When my boss asked me who is the stupid one, me or him? I told him everyone knows he doesn't hire stupid people.
 
+<<<<<<< HEAD
 Rating:  3
+=======
+Rating:  7
+>>>>>>> 28585c6964ea16fc1034f610eaf17412e036036e
 
 ---
 
 Q.  Doctor, how many autopsies have you peformed on dead people?
 A.  All my autopsies have been performed on dead people.
 
+<<<<<<< HEAD
 Rating: 1
+=======
+Rating: 2
+>>>>>>> 28585c6964ea16fc1034f610eaf17412e036036e
 
 ---
 
 Commit early, commit often. A tip for version controlling - not for relationships
 
+<<<<<<< HEAD
 Rating: 3
+=======
+Rating: 6
+>>>>>>> 28585c6964ea16fc1034f610eaf17412e036036e
  
 
 ---
 
 People used to laugh at me when I would say "I want to be a comedian", well nobody's laughing now.
 
-Rating:
+Rating: -1
